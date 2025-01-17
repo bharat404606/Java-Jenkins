@@ -6,6 +6,6 @@ public class Main{
         System.out.println("Output from  Java Programm");
         System.out.println(new Date());
         System.out.println("Hello");
-
+         System.out.println("Added New Line..");
     }
 }
